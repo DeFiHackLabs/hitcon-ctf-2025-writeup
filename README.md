@@ -11,6 +11,6 @@ By minaminao ([@vinami](https://x.com/vinami))
 
 **Description:**
 
-"A newly deployed, simple Uniswap V4 arbitrage contract has been identified 🤖"
+<img src="https://github.com/user-attachments/assets/3debb4e1-ee26-4abc-a9b8-d0267546e4f3" alt="image" width="600"/>
 
 Writeup:  
