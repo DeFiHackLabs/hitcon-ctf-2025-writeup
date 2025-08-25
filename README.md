@@ -13,4 +13,5 @@ By minaminao ([@vinami](https://x.com/vinami))
 
 <img src="https://github.com/user-attachments/assets/3debb4e1-ee26-4abc-a9b8-d0267546e4f3" alt="image" width="600"/>
 
-Writeup:  
+**Files & Writeup:**  
+[maximal-extractable-vuln](./maximal-extractable-vuln/)
